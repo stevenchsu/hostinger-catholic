@@ -1084,29 +1084,23 @@
 					</li>
 				</ul>
 
-				<p id="cc202228-fcb3-43dc-b7dc-22b04205a491" class="">
+				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
+
+				<p id="prayers-section" class="">
+				<h2 id="7c87520a-17be-4ddf-91d9-aa591c57f838" class=""><mark class="highlight-purple"><strong>PRAYERS 禱文</strong></mark></h2>
+				<bclockquote id="982a98d6-3c69-4976-9e42-ed4e042e78b7" class="">這些文章中提到的祈禱文</bclockquote>
+				<ul>
+					<li>
+						<h3 id="Day01" class="">全然降服於主的旨意 九日敬禮(諾維娜NOVENA)
+							<div>📜 <a class="highlight-yellow" href="pdf/全然降服於主的旨意 九日敬禮(諾維娜 NOVENA).pdf" target="_blank">
+									全然降服於主的旨意 九日敬禮(諾維娜NOVENA)
+								</a></div>
+						</h3>
+					</li>
+				</ul>
 				</p>
 				<p id="54e815e3-9318-4692-b4d9-b3941734829a" class="">
 				</p>
-				<p id="81835bbd-42dd-4a80-8afa-3792014a4fb9" class="">
-				</p>
-				<p id="8ea1cc88-488d-4086-a813-996b0395ca1d" class="">
-				</p>
-				<p id="e7acecb4-14e7-4f3f-96fb-427899c1e8e8" class="">
-				</p>
-				<p id="9ee7c9c3-d2f7-43a9-9bc0-f9220c507439" class="">
-				</p>
-				<p id="1e61f4b2-12e4-4a88-bbc8-ebebbf394d92" class="">
-				</p>
-				<p id="42943001-e724-4008-b424-37fc08ef0084" class="">
-				</p>
-				<p id="fad805f7-fb5a-4c3b-8d5a-9c828125f3f3" class="">
-				</p>
-				<p id="d3390af1-e9ce-4a1f-a248-de6cfbc2db33" class="">
-				</p>
-				<p id="9f3ba739-51b6-44b2-9729-942611f3bfaa" class="">
-				</p>
-				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
 				<p id="c33c922a-41f7-4949-ae29-184d3733ed1e" class="">
 				</p>
 			</div>
