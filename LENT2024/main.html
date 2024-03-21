@@ -1097,6 +1097,13 @@
 								</a></div>
 						</h3>
 					</li>
+					<li>
+						<h3 id="Day01" class="">祈求謙遜連禱文 LITANY OF HUMILITY
+							<div>📜 <a class="highlight-yellow" href="pdf/祈求謙遜連禱文 LITANY OF HUMILITY.pdf" target="_blank">
+									祈求謙遜連禱文 LITANY OF HUMILITY
+								</a></div>
+						</h3>
+					</li>
 				</ul>
 				</p>
 				<p id="54e815e3-9318-4692-b4d9-b3941734829a" class="">
