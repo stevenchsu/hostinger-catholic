@@ -1068,6 +1068,13 @@
 								</a></div>
 						</h3>
 					</li>
+					<li>
+						<h3 id="Day35" class="">Mar 19, 2024 - Peter's Betrayal - Day 35: Jeff & Jim / 彼得的背叛 - 第 35 天：聖經學者傑夫和吉姆·卡維澤(或喬納森·魯米)
+							<div>📜 <a class="highlight-yellow" href="pdf/彼得的背叛.pdf" target="_blank">
+									彼得的背叛
+								</a></div>
+						</h3>
+					</li>
 				</ul>
 
 				<p id="cc202228-fcb3-43dc-b7dc-22b04205a491" class="">
