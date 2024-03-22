@@ -831,9 +831,9 @@
 					多年忍受單獨監禁和勞改營的非凡描述。他令人難以置信的精神反思將幫助我們將我們所生活的完全主權交給上帝，並幫助我們體驗在基督裡真正的自由。</bclockquote>
 				<ul>
 					<li>
-						<h3 id="Day01" class="">Feb 14, 2024 - Humility - Day 1: Jonathan &amp; Fr. Mike / 祈求謙遜連禱文 - 第 1 天：喬納森和神父麥克
-							<div>📜 <a class="highlight-yellow" href="pdf/祈求謙遜連禱文 LITANY OF HUMILITY.pdf" target="_blank">
-									祈求謙遜連禱文 LITANY OF HUMILITY
+						<h3 id="Day01" class="">Feb 14, 2024 - Humility - Day 1: Jonathan &amp; Fr. Mike / 謙遜 - 第 1 天：喬納森和神父麥克
+							<div>📜 <a class="highlight-yellow" href="pdf/謙遜.pdf" target="_blank">
+									謙遜
 								</a></div>
 						</h3>
 					</li>
