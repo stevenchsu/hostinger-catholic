@@ -1082,6 +1082,13 @@
 								</a></div>
 						</h3>
 					</li>
+					<li>
+						<h3 id="Day37" class="">Mar 21, 2024 - Surrender Story: Our Cross - Day 37: Lisa & Josh Canning / 投降故事：我們的十字架 - 第 37 天：麗莎和喬許·坎寧
+							<div>📜 <a class="highlight-yellow" href="pdf/投降故事：我們的十字架.pdf" target="_blank">
+									投降故事：我們的十字架
+								</a></div>
+						</h3>
+					</li>
 				</ul>
 
 				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
