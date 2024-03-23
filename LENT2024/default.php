@@ -1089,6 +1089,13 @@
 								</a></div>
 						</h3>
 					</li>
+					<li>
+						<h3 id="Day38" class="">Mar 22, 2024 - Follow Jesus - Day 38: Mark Wahlberg / 跟隨耶穌 - 第 38 天：馬克華柏格
+							<div>📜 <a class="highlight-yellow" href="pdf/跟隨耶穌.pdf" target="_blank">
+									跟隨耶穌
+								</a></div>
+						</h3>
+					</li>
 				</ul>
 
 				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
