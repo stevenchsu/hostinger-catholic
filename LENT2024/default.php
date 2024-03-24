@@ -1096,6 +1096,13 @@
 								</a></div>
 						</h3>
 					</li>
+					<li>
+						<h3 id="Day39" class="">Mar 23, 2024 - Beginning of Real Life - Day 39: Sr. Bernice, MC / 真正生命的開始 - 第 39 天：伯妮絲修女
+							<div>📜 <a class="highlight-yellow" href="pdf/真正生命的開始.pdf" target="_blank">
+									真正生命的開始
+								</a></div>
+						</h3>
+					</li>
 				</ul>
 
 				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
@@ -1105,14 +1112,14 @@
 				<bclockquote id="982a98d6-3c69-4976-9e42-ed4e042e78b7" class="">這些文章中提到的祈禱文</bclockquote>
 				<ul>
 					<li>
-						<h3 id="Day01" class="">全然降服於主的旨意 九日敬禮(諾維娜NOVENA)
+						<h3 id="Prayer01" class="">全然降服於主的旨意 九日敬禮(諾維娜NOVENA)
 							<div>📜 <a class="highlight-yellow" href="pdf/全然降服於主的旨意 九日敬禮(諾維娜 NOVENA).pdf" target="_blank">
 									全然降服於主的旨意 九日敬禮(諾維娜NOVENA)
 								</a></div>
 						</h3>
 					</li>
 					<li>
-						<h3 id="Day01" class="">祈求謙遜連禱文 LITANY OF HUMILITY
+						<h3 id="Prayer02" class="">祈求謙遜連禱文 LITANY OF HUMILITY
 							<div>📜 <a class="highlight-yellow" href="pdf/祈求謙遜連禱文 LITANY OF HUMILITY.pdf" target="_blank">
 									祈求謙遜連禱文 LITANY OF HUMILITY
 								</a></div>
