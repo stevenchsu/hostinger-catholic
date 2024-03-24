@@ -1097,9 +1097,16 @@
 						</h3>
 					</li>
 					<li>
-						<h3 id="Day39" class="">Mar 23, 2024 - Beginning of Real Life - Day 39: Sr. Bernice, MC / 真正生命的開始 - 第 39 天：伯妮絲修女
+						<h3 id="Day39" class="block-color-teal_background">Mar 23, 2024 - Beginning of Real Life - Day 39: Sr. Bernice, MC / 真正生命的開始 - 第 39 天：伯妮絲修女
 							<div>📜 <a class="highlight-yellow" href="pdf/真正生命的開始.pdf" target="_blank">
 									真正生命的開始
+								</a></div>
+						</h3>
+					</li>
+					<li>
+						<h3 id="Day40" class="highlight-red_background">Mar 24, 2024 - Sunday Sermon - Day 40: Fr. Mike Schmitz / 主日講道 - 第 40 天：神父 麥克‧施米茨
+							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+									(待處理 PENDING...)
 								</a></div>
 						</h3>
 					</li>
