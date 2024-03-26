@@ -1138,9 +1138,9 @@
 
 					</li>
 					<li class="">
-						<h3 id="Day41" class=" item1">Mar 25, 2024 - Barabbas - Day 41: Jeff & Jim /
-							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
-									(待處理 PENDING...)
+						<h3 id="Day41" class=" item1">Mar 25, 2024 - Barabbas - Day 41: Jeff & Jim / 巴拉巴 - 第 41 天：聖經學者傑夫和吉姆·卡維澤(或喬納森·魯米)
+							<div>📜 <a class="highlight-yellow" href="pdf/巴拉巴.pdf" target="_blank">
+									巴拉巴
 								</a></div>
 						</h3>
 
