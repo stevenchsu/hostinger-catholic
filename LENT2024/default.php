@@ -736,7 +736,8 @@
 			}
 
 			.block-color-purple_background {
-				background: rgba(244, 240, 247, 0.8);
+				background: rgba(202 165 215 / 32%);
+				/* rgba(244, 240, 247, 1); */
 			}
 
 			.block-color-pink_background {
@@ -815,6 +816,30 @@
 
 			.checkbox-off {
 				background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+			}
+
+			.two-columns {
+				display: flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				gap: 16px;
+				flex: 1 0 auto;
+			}
+
+			.two-columns {
+				display: flex;
+				flex-direction: row;
+				justify-content: stretch;
+				flex-wrap: nowrap;
+				gap: 20px;
+			}
+
+			.item1 {
+				flex: 1 1 50%;
+			}
+
+			.item2 {
+				flex: 1 1 50%;
 			}
 		</style>
 	</head>
@@ -1096,20 +1121,211 @@
 								</a></div>
 						</h3>
 					</li>
-					<li>
-						<h3 id="Day39" class="block-color-teal_background">Mar 23, 2024 - Beginning of Real Life - Day 39: Sr. Bernice, MC / 真正生命的開始 - 第 39 天：伯妮絲修女
+					<li class="">
+						<h3 id="Day39" class="block-color-teal_background item1">Mar 23, 2024 - Beginning of Real Life - Day 39: Sr. Bernice, MC / 真正生命的開始 - 第 39 天：伯妮絲修女
 							<div>📜 <a class="highlight-yellow" href="pdf/真正生命的開始.pdf" target="_blank">
 									真正生命的開始
 								</a></div>
 						</h3>
+
 					</li>
-					<li>
-						<h3 id="Day40" class="highlight-red_background">Mar 24, 2024 - Sunday Sermon - Day 40: Fr. Mike Schmitz / 主日講道 - 第 40 天：神父 麥克‧施米茨
+					<li class="">
+						<h3 id="Day40" class="highlight-red_background item1">Mar 24, 2024 - Sunday Sermon - Day 40: Fr. Mike Schmitz / 主日講道 - 第 40 天：神父 麥克‧施米茨
 							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
 									(待處理 PENDING...)
 								</a></div>
 						</h3>
+
 					</li>
+					<li class="">
+						<h3 id="Day41" class=" item1">Mar 25, 2024 - Barabbas - Day 41: Jeff & Jim /
+							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+									(待處理 PENDING...)
+								</a></div>
+						</h3>
+
+					</li>
+					<li class="">
+						<h3 id="Day42" class=" item1">Mar 26, 2024 - Jesus Surrenders on the Cross - Day 42: Jeff & Jim /
+							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+									(待處理 PENDING...)
+								</a></div>
+						</h3>
+
+					</li>
+					<li class="">
+						<h3 id="Day43" class=" item1">Mar 27, 2024 - At the Foot of the Cross - Day 43: Sr. Miriam /
+							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+									(待處理 PENDING...)
+								</a></div>
+						</h3>
+
+					</li>
+					<li class="">
+						<h3 id="Day44" class=" item1">Mar 28, 2024 - Surrender Story: To the Father - Day 44: Sr. Josephine /
+							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+									(待處理 PENDING...)
+								</a></div>
+						</h3>
+
+					</li>
+
+					<!-- 神聖慈悲九日敬禮(諾維娜NOVENA) -->
+
+					<li>
+						<div class="two-columns">
+							<h3 id="Day45" class=" item1">Mar 29, 2024 - Stations of the Cross - Day 45: Special Guest /
+								<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+										(待處理 PENDING...)
+									</a></div>
+							</h3>
+							<h3 id="Mercy01" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第一日（聖週五）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第一日（聖週五）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="Day46" class="block-color-teal_background item1">Mar 30, 2024 - Holy Saturday Silence - Day 46: Sr. Bernice, MC /
+								<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+										(待處理 PENDING...)
+									</a></div>
+							</h3>
+							<h3 id="Mercy02" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第二日（聖週六）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第二日（聖週六）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="Day47" class="highlight-red_background item1">Mar 31, 2024 - Sunday Sermon - Day 47: Fr. Mike Schmitz /
+								<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
+										(待處理 PENDING...)
+									</a></div>
+							</h3>
+							<h3 id="Mercy03" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第三日（復活節）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第三日（復活節）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class=" item1">Apr 1, 2024
+							</h3>
+							<h3 id="Mercy04" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第四日（復活節後第一天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第四日（復活節後第一天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class=" item1">Apr 2, 2024
+							</h3>
+							<h3 id="Mercy05" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第五日（復活節後第二天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第五日（復活節後第二天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class=" item1">Apr 3, 2024
+							</h3>
+							<h3 id="Mercy06" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第六日（復活節後第三天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第六日（復活節後第三天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class=" item1">Apr 4, 2024
+							</h3>
+							<h3 id="Mercy07" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第七日（復活節後第四天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第七日（復活節後第四天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class=" item1">Apr 5, 2024
+							</h3>
+							<h3 id="Mercy08" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第八日 （復活節後第五天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第八日 （復活節後第五天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="two-columns">
+							<h3 id="" class="block-color-teal_background item1">Apr 6, 2024
+							</h3>
+							<h3 id="Mercy09" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第九日 （復活節後第六天）
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+										神聖慈悲九日敬禮 - 第九日 （復活節後第六天）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
+					<li>
+						<div class="">
+							<h3 id="Day40" class="block-color-purple_background ">Apr 7, 2024 - 復活期第二主日（救主慈悲主日 Divine Mercy Sunday)
+								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+										神聖慈悲串經
+									</a></div>
+							</h3>
+						</div>
+					</li>
+
 				</ul>
 
 				<hr id="06ab4621-8d16-4a08-8114-429ccaf3e6a5" />
@@ -1129,6 +1345,20 @@
 						<h3 id="Prayer02" class="">祈求謙遜連禱文 LITANY OF HUMILITY
 							<div>📜 <a class="highlight-yellow" href="pdf/祈求謙遜連禱文 LITANY OF HUMILITY.pdf" target="_blank">
 									祈求謙遜連禱文 LITANY OF HUMILITY
+								</a></div>
+						</h3>
+					</li>
+					<li>
+						<h3 id="Prayer03" class="">神聖慈悲 九日敬禮(諾維娜NOVENA)
+							<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
+									神聖慈悲 九日敬禮(諾維娜NOVENA)
+								</a></div>
+						</h3>
+					</li>
+					<li>
+						<h3 id="Prayer04" class="">神聖慈悲串經
+							<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲串經.pdf" target="_blank">
+									神聖慈悲串經
 								</a></div>
 						</h3>
 					</li>
