@@ -1146,9 +1146,9 @@
 
 					</li>
 					<li class="">
-						<h3 id="Day42" class=" item1">Mar 26, 2024 - Jesus Surrenders on the Cross - Day 42: Jeff & Jim /
-							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
-									(待處理 PENDING...)
+						<h3 id="Day42" class=" item1">Mar 26, 2024 - Jesus Surrenders on the Cross - Day 42: Jeff & Jim / 耶穌在十字架上投降 - 第 42 天：聖經學者傑夫和吉姆·卡維澤(或喬納森·魯米)
+							<div>📜 <a class="highlight-yellow" href="pdf/耶穌在十字架上投降.pdf" target="_blank">
+									耶穌在十字架上投降
 								</a></div>
 						</h3>
 
@@ -1179,7 +1179,7 @@
 										(待處理 PENDING...)
 									</a></div>
 							</h3>
-							<h3 id="Mercy01" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第一日（聖週五）
+							<h3 id="Mercy01" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第一日（聖週五）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第一日（聖週五）
 									</a></div>
@@ -1197,7 +1197,7 @@
 										(待處理 PENDING...)
 									</a></div>
 							</h3>
-							<h3 id="Mercy02" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第二日（聖週六）
+							<h3 id="Mercy02" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第二日（聖週六）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第二日（聖週六）
 									</a></div>
@@ -1210,12 +1210,12 @@
 
 					<li>
 						<div class="two-columns">
-							<h3 id="Day47" class="highlight-red_background item1">Mar 31, 2024 - Sunday Sermon - Day 47: Fr. Mike Schmitz /
+							<h3 id="Day47" class="block-color-purple_background item1">Mar 31, 2024 - Sunday Sermon - Day 47: Fr. Mike Schmitz / 耶穌復活主日
 								<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
 										(待處理 PENDING...)
 									</a></div>
 							</h3>
-							<h3 id="Mercy03" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第三日（復活節）
+							<h3 id="Mercy03" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第三日（復活節）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第三日（復活節）
 									</a></div>
@@ -1230,7 +1230,7 @@
 						<div class="two-columns">
 							<h3 id="" class=" item1">Apr 1, 2024
 							</h3>
-							<h3 id="Mercy04" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第四日（復活節後第一天）
+							<h3 id="Mercy04" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第四日（復活節後第一天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第四日（復活節後第一天）
 									</a></div>
@@ -1245,7 +1245,7 @@
 						<div class="two-columns">
 							<h3 id="" class=" item1">Apr 2, 2024
 							</h3>
-							<h3 id="Mercy05" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第五日（復活節後第二天）
+							<h3 id="Mercy05" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第五日（復活節後第二天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第五日（復活節後第二天）
 									</a></div>
@@ -1260,7 +1260,7 @@
 						<div class="two-columns">
 							<h3 id="" class=" item1">Apr 3, 2024
 							</h3>
-							<h3 id="Mercy06" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第六日（復活節後第三天）
+							<h3 id="Mercy06" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第六日（復活節後第三天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第六日（復活節後第三天）
 									</a></div>
@@ -1275,7 +1275,7 @@
 						<div class="two-columns">
 							<h3 id="" class=" item1">Apr 4, 2024
 							</h3>
-							<h3 id="Mercy07" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第七日（復活節後第四天）
+							<h3 id="Mercy07" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第七日（復活節後第四天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第七日（復活節後第四天）
 									</a></div>
@@ -1290,7 +1290,7 @@
 						<div class="two-columns">
 							<h3 id="" class=" item1">Apr 5, 2024
 							</h3>
-							<h3 id="Mercy08" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第八日 （復活節後第五天）
+							<h3 id="Mercy08" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第八日 （復活節後第五天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第八日 （復活節後第五天）
 									</a></div>
@@ -1305,7 +1305,7 @@
 						<div class="two-columns">
 							<h3 id="" class="block-color-teal_background item1">Apr 6, 2024
 							</h3>
-							<h3 id="Mercy09" class="block-color-yellow_background item2">神聖慈悲九日敬禮(諾維娜NOVENA) - 第九日 （復活節後第六天）
+							<h3 id="Mercy09" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第九日 （復活節後第六天）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
 										神聖慈悲九日敬禮 - 第九日 （復活節後第六天）
 									</a></div>
