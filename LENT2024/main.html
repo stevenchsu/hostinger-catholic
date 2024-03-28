@@ -1154,9 +1154,9 @@
 
 					</li>
 					<li class="">
-						<h3 id="Day43" class=" item1">Mar 27, 2024 - At the Foot of the Cross - Day 43: Sr. Miriam /
-							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
-									(待處理 PENDING...)
+						<h3 id="Day43" class=" item1">Mar 27, 2024 - At the Foot of the Cross - Day 43: Sr. Miriam / 在十字架下 - 第 43 天：米里亞姆修女
+							<div>📜 <a class="highlight-yellow" href="pdf/在十字架下.pdf" target="_blank">
+									在十字架下
 								</a></div>
 						</h3>
 
