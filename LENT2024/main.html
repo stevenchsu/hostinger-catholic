@@ -1162,9 +1162,9 @@
 
 					</li>
 					<li class="">
-						<h3 id="Day44" class=" item1">Mar 28, 2024 - Surrender Story: To the Father - Day 44: Sr. Josephine /
-							<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
-									(待處理 PENDING...)
+						<h3 id="Day44" class=" item1">Mar 28, 2024 - Surrender Story: To the Father - Day 44: Sr. Josephine / 臣服的故事：向天父屈服 - 第 44 天：約瑟芬修女
+							<div>📜 <a class="highlight-yellow" href="pdf/臣服的故事：向天父屈服.pdf" target="_blank">
+									臣服的故事：向天父屈服
 								</a></div>
 						</h3>
 
