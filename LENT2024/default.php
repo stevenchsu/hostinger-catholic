@@ -1174,9 +1174,9 @@
 
 					<li>
 						<div class="two-columns">
-							<h3 id="Day45" class=" item1">Mar 29, 2024 - Stations of the Cross - Day 45: Special Guest /
-								<div>📜 <a class="highlight-yellow" href="javascript:void(0)">
-										(待處理 PENDING...)
+							<h3 id="Day45" class=" item1">Mar 29, 2024 - Stations of the Cross - Day 45: Special Guest / 十字架苦路 - 第 45 天：特邀嘉賓
+								<div>📜 <a class="highlight-yellow" href="pdf/十字架苦路.pdf" target="_blank">
+										十字架苦路
 									</a></div>
 							</h3>
 							<h3 id="Mercy01" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第一日（聖週五）
