@@ -1178,6 +1178,18 @@
 								<div>📜 <a class="highlight-yellow" href="pdf/十字架苦路.pdf" target="_blank">
 										十字架苦路
 									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/吉姆·卡維澤爾 Jim Caviezel （來自耶路撒冷的傳統十字架苦路）.pdf" target="_blank">
+										吉姆·卡維澤爾 Jim Caviezel （來自耶路撒冷的傳統十字架苦路）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/喬納森·魯米 Jonathan Roumie.pdf" target="_blank">
+										喬納森·魯米 Jonathan Roumie
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/麗莎·布倫尼克邁耶 Lisa Brenninkmeyer （來自羅馬的聖經十字架苦路）.pdf" target="_blank">
+										麗莎·布倫尼克邁耶 Lisa Brenninkmeyer （來自羅馬的聖經十字架苦路）
+									</a></div>
+								<div>📜 <a class="highlight-yellow" href="pdf/羅伯特·巴倫主教 Bishop Robert Barron.pdf" target="_blank">
+										羅伯特·巴倫主教 Bishop Robert Barron
+									</a></div>
 							</h3>
 							<h3 id="Mercy01" class="block-color-yellow_background item2">神聖慈悲九日敬禮 - 第一日（聖週五）
 								<div>📜 <a class="highlight-yellow" href="pdf/神聖慈悲九日敬禮.pdf" target="_blank">
